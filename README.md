@@ -10,15 +10,15 @@
 ![TankLoLCtrl](https://github.com/macaroonlove/League_of_Tank/assets/87137181/2d2dc778-f65e-42ff-bb54-1cbe4accf28e)
 
 ### Q스킬
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/fsPg4kY4Rkk" title="TankLoL Skill ToGIF Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/fsPg4kY4Rkk/0.jpg)](https://youtu.be/59USvjy2toI)
 
 ### W스킬
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/l2fCeJR5EM4" title="TankLoL Skill ToGIF W" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/l2fCeJR5EM4/0.jpg)](https://youtu.be/59USvjy2toI)
 
 ### E스킬
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/hdLVxpaOKfo" title="TankLoL Skill ToGIF E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/hdLVxpaOKfo/0.jpg)](https://youtu.be/59USvjy2toI)
 
 ### R스킬
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/EqdfgegfNI8" title="TankLoL Skill ToGIF R" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/EqdfgegfNI8/0.jpg)](https://youtu.be/59USvjy2toI)
 
 ## 승리조건
