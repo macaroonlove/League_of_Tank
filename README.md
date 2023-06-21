@@ -10,15 +10,15 @@
 ![TankLoLCtrl](https://github.com/macaroonlove/League_of_Tank/assets/87137181/2d2dc778-f65e-42ff-bb54-1cbe4accf28e)
 
 ### Q스킬
-<video src="https://github.com/macaroonlove/League_of_Tank/assets/87137181/c5917b2e-2116-452d-af55-2a3fd036671b" controls></video>
+<iframe width="1044" height="587" src="https://youtu.be/fsPg4kY4Rkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### W스킬
-<video src="https://github.com/macaroonlove/League_of_Tank/assets/87137181/fb127e85-4c53-41d8-8034-e70703a2999d" controls></video>
+<iframe width="1044" height="587" src="https://youtu.be/l2fCeJR5EM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### E스킬
-<video src="https://github.com/macaroonlove/League_of_Tank/assets/87137181/47b05bef-79bd-4e35-9e65-bbac004bf555" controls></video>
+<iframe width="1044" height="587" src="https://youtu.be/hdLVxpaOKfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### R스킬
-<video src="https://github.com/macaroonlove/League_of_Tank/assets/87137181/ace1c2b7-4be1-4bf6-a408-1eef24535031" controls></video>
+<iframe width="1044" height="587" src="https://youtu.be/EqdfgegfNI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 승리조건
