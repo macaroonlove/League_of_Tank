@@ -14,16 +14,18 @@
 ### 기본 조작법
 ![조작 방법](./Git_Image/2.png)
 
-### Q스킬 (Youtube Link)
+### Q스킬
+#### 이동속도 증가
 ![Q스킬](./Git_Image/3.gif)
 
-### W스킬 (Youtube Link)
+### W스킬
+#### 베리어
 ![W스킬](./Git_Image/4.gif)
 
-### E스킬 (Youtube Link)
+### E스킬
 ![E스킬](./Git_Image/5.gif)
 
-### R스킬 (Youtube Link)
+### R스킬
 ![R스킬](./Git_Image/6.gif)
 
 ## 승리조건
