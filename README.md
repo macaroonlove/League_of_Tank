@@ -9,16 +9,17 @@
 ### 기본 조작법
 ![TankLoLCtrl](https://github.com/macaroonlove/League_of_Tank/assets/87137181/2d2dc778-f65e-42ff-bb54-1cbe4accf28e)
 
-### Q스킬
-[![Video Label](http://img.youtube.com/vi/fsPg4kY4Rkk/0.jpg)](https://youtu.be/59USvjy2toI)
+### Q스킬 (Youtube Link)
+[![Video Label](http://img.youtube.com/vi/fsPg4kY4Rkk/0.jpg)](https://youtu.be/fsPg4kY4Rkk)
 
-### W스킬
-[![Video Label](http://img.youtube.com/vi/l2fCeJR5EM4/0.jpg)](https://youtu.be/59USvjy2toI)
+### W스킬 (Youtube Link)
+[![Video Label](http://img.youtube.com/vi/l2fCeJR5EM4/0.jpg)](https://youtu.be/l2fCeJR5EM4)
 
-### E스킬
-[![Video Label](http://img.youtube.com/vi/hdLVxpaOKfo/0.jpg)](https://youtu.be/59USvjy2toI)
+### E스킬 (Youtube Link)
+[![Video Label](http://img.youtube.com/vi/hdLVxpaOKfo/0.jpg)](https://youtu.be/hdLVxpaOKfo)
 
-### R스킬
-[![Video Label](http://img.youtube.com/vi/EqdfgegfNI8/0.jpg)](https://youtu.be/59USvjy2toI)
+### R스킬 (Youtube Link)
+[![Video Label](http://img.youtube.com/vi/EqdfgegfNI8/0.jpg)](https://youtu.be/EqdfgegfNI8)
 
 ## 승리조건
+#### 10마리의 좀비를 잡은 후, 문에 닿으면 승리!
